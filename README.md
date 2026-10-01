@@ -67,6 +67,7 @@ This repo contains a list of languages that currently compile to or have their V
   - [Scheme](#scheme)
   - [Swift](#swift)
   - [Tcl](#tcl)
+  - [Tint](#tint)
   - [V](#v)
   - [Virgil](#virgil)
   - [Wa](#wa)
@@ -667,6 +668,11 @@ This repo contains a list of languages that currently compile to or have their V
 > Theta is a modern, general purpose, functional programming language with a strong type system and expressive syntax. It features a modular design and supports pattern matching, function overloading, and other goodies.
 * [ThetaLang](https://github.com/alexdovzhanyn/ThetaLang) - main repository.
 
+--------------------
+
+### <a name="tint"></a>Tint <sup>[top⇈](#contents)</sup>
+> Tint is a statically typed UI language that keeps structure, style, state and logic in a single file. It runs in the browser on a small WebAssembly runtime and renders directly into the real DOM, with no virtual DOM and no hand-written HTML, CSS or JS.
+* [Tint](https://github.com/tintlang/tint) - main repository. You can try it out [here](https://tint-gamma.vercel.app/).
 --------------------
 
 ### <a name="turboscript"></a>TurboScript <sup>[top⇈](#contents)</sup>
